@@ -2,7 +2,7 @@
 # Auther: Thomas Lundsgaard Hansen  #
 # Date: 19-01-2019                  #
 # Version: 1.0                      #
-# License: GPL V2, June 1991        #
+# License: GPL V3, 29 June 2007     #
 #####################################
 
 #!/bin/bash
